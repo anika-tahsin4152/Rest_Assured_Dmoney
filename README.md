@@ -19,20 +19,20 @@
 --// https://mvnrepository.com/artifact/org.hamcrest/hamcrest
 
 # Generate Allure Report :
---download the zip from the given link : https://github.com/allure-framework/allure2/releases
---UNzip file , copy the path till bin and Setup home environment on your windows 
---go to your IDE then add this on build.gradle script , make a suite before that .
--- plugins {
+    --download the zip from the given link : https://github.com/allure-framework/allure2/releases
+    --UNzip file , copy the path till bin and Setup home environment on your windows 
+    --go to your IDE then add this on build.gradle script , make a suite before that .
+    -- plugins {
     id 'java'
     id 'io.qameta.allure' version '2.10.0'
-}
-allure {
+    }
+    allure {
     version = '2.10.0'
-} 
---Run the following Gradle task to generate the report:
----./gradlew clean test
---allure generate allure results --clean -output
---allure serve allure results
+    } 
+    --Run the following Gradle task to generate the report:
+    ---./gradlew clean test
+    --allure generate allure results --clean -output
+    --allure serve allure results
 
 # Allure Report
 --![screencapture-192-168-0-104-57179-index-html-2023-10-24-19_32_07](https://github.com/anika-tahsin4152/Rest_Assured_Dmoney/assets/73738319/fa25fa63-5a45-4fc9-81ed-78bb5b04b643)
