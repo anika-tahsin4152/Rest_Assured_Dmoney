@@ -14,7 +14,7 @@
 --// https://mvnrepository.com/artifact/commons-configuration/commons-configuration   
 --// https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind   
 --// https://mvnrepository.com/artifact/com.github.javafaker/javafaker   
---// https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple 
+--// https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple
 --// https://mvnrepository.com/artifact/io.qameta.allure/allure-testng
 --// https://mvnrepository.com/artifact/org.hamcrest/hamcrest
 
