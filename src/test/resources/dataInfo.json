@@ -1,0 +1,26 @@
+[
+  {
+    "password": "1234",
+    "role": "Agent",
+    "name": "Ms. Debroah Fay",
+    "nid": "817496108",
+    "phone_number": "01662475540",
+    "email": "tyree.schimmel@gmail.com"
+  },
+  {
+    "password": "1243",
+    "role": "Customer",
+    "name": "Roderick Frami",
+    "nid": "699417216",
+    "phone_number": "01410858414",
+    "email": "charlene.barton@gmail.com"
+  },
+  {
+    "password": "1234",
+    "role": "Customer",
+    "name": "Ernie Jakubowski",
+    "nid": "560860089",
+    "phone_number": "01671122601",
+    "email": "daisy.gleichner@hotmail.com"
+  }
+]
